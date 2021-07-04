@@ -190,6 +190,11 @@
     font-weight: 200;
     color: var(--main-white);
   }
+  .desc > h2 {
+    
+    width: 70vw;
+  
+  }
 
   .skills-section{
     text-align: center;
