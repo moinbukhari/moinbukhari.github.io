@@ -172,13 +172,13 @@
   .desc{
     display: flex;
     flex-direction: column;
-    position: fixed;
+    position: relative;
     padding-top: 100px;
     padding-bottom: 50px;
     /* justify-content: center; */
     align-items: center;
     width: 100%;
-
+    overflow: visible;
     height: 100%;
     background-color: #000;
     background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
