@@ -172,7 +172,6 @@
   .desc{
     display: flex;
     flex-direction: column;
-    position: relative;
     padding-top: 100px;
     padding-bottom: 50px;
     /* justify-content: center; */
